@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+body{
+    background-color: #303e48;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+/* Heading Part Start*/
+.heading{
+    font-size: 5rem;
+    color: #ff595a;
+    font-family: 'Archivo Black', sans-serif;
+    margin-bottom: -45px;
+}
+.head2{
+    font-size: 3rem;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+/* Heading Part End*/
+
+/* Box 1 start */
+.box1{
+    display: flex;
+}
+.infobox1{
+    background-color: #ff9e1a;
+    height:30rem;
+    width: 30rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+/* infobox1 Contents Start*/
+
+.infobox_content_head{
+    font-family: 'Archivo Black', sans-serif;
+    color: white;
+    font-size: 5rem;
+    margin-bottom: -40px;
+}
+
+.infobox_content1{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+    font-size: 2rem;
+    font-weight: 100;
+}
+
+/* infobox1 Contents End*/
+.infobox2{
+    background-color: #00b2e2;
+    height:30rem;
+    width: 30rem;
+}
+
+/* Box 1 End */
+
+/* Box 2 start */
+
+.infobox3{
+    height: 20rem;
+    width: 60rem;
+    background-color: #ff595a;
+    margin-top: 5rem;
+}
+
+/* Box 2 End */
+
+/* Box 3 start */
+
+.infobox4{
+    height: 25rem;
+    width: 60rem;
+    background-color: #00b2e2;
+    margin-top: 5rem;
+}
+/* Box 3 End */
+
+/* Box 4 start */
+.box4{
+    display: flex;
+    margin-top: 5rem;
+}
+.infobox5{
+    background-color: #ff595a;
+    height:30rem;
+    width: 30rem;
+}
+.infobox6{
+    background-color: #ff9e1a;
+    height:30rem;
+    width: 30rem;
+}
+
+/* Box 4 End */
+
+/* Box 5 start */
+.infobox7{
+    height: 20rem;
+    width: 60rem;
+    background-color: #00b2e2;
+    margin-top: 5rem;
+}
+/* Box 5 End */
+
+/* Box 6 start */
+
+.infobox8{
+    height: 20rem;
+    width: 60rem;
+    background-color: #ff9e1a;
+    margin-top: 5rem;
+}
+
+/* Box 6 End */
+
+/* Box 7 start */
+
+.box7{
+    display: flex;
+    margin-top: 5rem;
+}
+.infobox9{
+    background-color: #00b2e2;
+    height:30rem;
+    width: 30rem;
+}
+.infobox10{
+    background-color: #ff595a;
+    height:30rem;
+    width: 30rem;
+}
+
+/* Box 7 End */
