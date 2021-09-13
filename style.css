@@ -24,6 +24,7 @@ body{
 /* Box 1 start */
 .box1{
     display: flex;
+    flex-wrap: wrap;
 }
 .infobox1{
     background-color: #ff9e1a;
@@ -84,6 +85,7 @@ body{
 .box4{
     display: flex;
     margin-top: 5rem;
+    flex-wrap: wrap;
 }
 .infobox5{
     background-color: #ff595a;
@@ -123,6 +125,7 @@ body{
 .box7{
     display: flex;
     margin-top: 5rem;
+    flex-wrap: wrap;
 }
 .infobox9{
     background-color: #00b2e2;
