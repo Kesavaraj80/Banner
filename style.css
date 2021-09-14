@@ -8,6 +8,11 @@ body{
     flex-wrap: wrap;
 
 }
+/* cpmmon underline style */
+.underline{
+    color: white;
+    text-decoration: underline;
+}
 /* Heading Part Start*/
 .heading{
     font-size: 5rem;
@@ -66,10 +71,7 @@ body{
     font-weight: 100;
 }
 
-.underline{
-    color: white;
-    text-decoration: underline;
-}
+
 
 /* infobox1 Contents End*/
 
